@@ -1,0 +1,2 @@
+*.dos text eol=crlf
+.gitignore export-ignore
